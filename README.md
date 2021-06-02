@@ -10,22 +10,32 @@ Este repositorio contiene información sobre github y markdown
 
 ## Guía rapida
 
+Parrafos
+
 # h1
 ## h2
 ### h3
 #### h4
+
+Tipos de letras
 
 **Negrita**
 
 *Cursivas*
 texto normal
 
+
+ Comandos 
+ 
+ 
 '$Comando ' 
 
 ```
 $Bloque de comandos
 $ comando
 ```
+
+Links
 
 [LINK](url)
 
